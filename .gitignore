@@ -23,7 +23,7 @@ fp-info-cache
 
 # Exported BOM files
 *.xml
-*.csv
+*.ini
 
 
 # For simulations done in LTSpice

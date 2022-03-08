@@ -6,6 +6,7 @@
 
   (title_block
     (title "436.5MHz LNA")
+    (rev "1.0")
     (company "KK7DLH")
   )
 
@@ -892,7 +893,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e04409c2-b3ba-460e-bddc-62e0044901c2)
     (property "Reference" "J1" (id 0) (at 94.2974 81.28 0))
-    (property "Value" "Conn_Coaxial" (id 1) (at 94.2974 83.82 0))
+    (property "Value" "Coaxial SMA" (id 1) (at 94.2974 83.82 0))
     (property "Footprint" "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount" (id 2) (at 93.98 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1007,7 +1008,7 @@
     (property "Reference" "J2" (id 0) (at 189.23 81.28 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Conn_Coaxial" (id 1) (at 184.15 84.1131 0)
+    (property "Value" "Coaxial SMA" (id 1) (at 184.15 84.1131 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount" (id 2) (at 190.5 88.9 0)
@@ -1137,10 +1138,10 @@
       (reference "C5") (unit 1) (value "10n") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/e04409c2-b3ba-460e-bddc-62e0044901c2"
-      (reference "J1") (unit 1) (value "Conn_Coaxial") (footprint "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount")
+      (reference "J1") (unit 1) (value "Coaxial SMA") (footprint "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount")
     )
     (path "/f0ff0792-4d97-4881-9b9c-759645b25c42"
-      (reference "J2") (unit 1) (value "Conn_Coaxial") (footprint "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount")
+      (reference "J2") (unit 1) (value "Coaxial SMA") (footprint "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount")
     )
     (path "/45c0d4b2-152f-4522-afdb-d5657a7cd4e7"
       (reference "J3") (unit 1) (value "+9V") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
