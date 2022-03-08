@@ -1,13 +1,13 @@
 Quantity Per PCB,References,Value,MFN,MPN,Footprint,Dist,DPN,Datasheet
-1,C4,1.2p,YAGEO,CC0603BRNPO9BN1R2,C_0603_1608Metric,DigiKey,311-3825-2-ND,~
-4,C1 C2 C3 C5,10n,KYOCERA AVX,06035C103KAT4A,C_0603_1608Metric,DigiKey,478-10055-2-ND,~
+1,C4,1.2p,YAGEO,CC0603BRNPO9BN1R2‎,C_0603_1608Metric,DigiKey,311-3825-1-ND‎,~
+4,C1 C2 C3 C5,10n,Samsung Electro-Mechanics,CL10C102JB8NNNC,C_0603_1608Metric,DigiKey,1276-1091-2-ND,~
 1,J3,+9V,,,PinHeader_1x02_P2.54mm_Vertical,DigiKey,,~
-2,J1 J2,Coaxial SMA,Muller Electric Co,BU-1420701801,SMA_Amphenol_132289_EdgeMount,DigiKey,314-1702-ND,https://www.muellerelectric.com/product_files/785/DS-BU-1420701801.pdf
-1,L1,36n,Coilcraft,0603DC-36NXJRW,L_0603_1608Metric,DigiKey,2457-0603DC-36NXJRW-ND,https://www.coilcraft.com/getmedia/f3d98f97-cbe2-41fa-b3a9-518f674e881e/0603dc.pdf
-2,L2 L3,39n,Coilcraft,0603DC-39NXJRW,L_0603_1608Metric,DigiKey,2457-0603DC-39NXJRW-ND,https://www.coilcraft.com/getmedia/f3d98f97-cbe2-41fa-b3a9-518f674e881e/0603dc.pdf
-1,Q1,J310,OnSemi,MMBFJ310LT3G,SOT-23,DigiKey,MMBFJ310LT3GOSTR-ND,https://www.farnell.com/datasheets/1796558.pdf
-1,R2,5.1,YAGEO,RC0603FR-075R1L,R_0603_1608Metric,DigiKey,YAG3372TR-ND,~
-2,R1 R3,100,Vishay Dale,CRCW0603100RFKEBC,R_0603_1608Metric,DigiKey,541-CRCW0603100RFKEBCTR-ND,~
+2,J1 J2,Coaxial SMA,Muller Electric Co,BU-1420701801,SMA_Amphenol_132289_EdgeMount,DigiKey,314-1702-ND‎,https://www.muellerelectric.com/product_files/785/DS-BU-1420701801.pdf
+1,L1,36n,Coilcraft,0603DC-36NXJRW,L_0603_1608Metric,Coilcraft,0603DC-36NXJRW,https://www.coilcraft.com/getmedia/f3d98f97-cbe2-41fa-b3a9-518f674e881e/0603dc.pdf
+2,L2 L3,39n,Coilcraft,0603DC-39NXJRW,L_0603_1608Metric,Coilcraft,0603DC-39NXJRW,https://www.coilcraft.com/getmedia/f3d98f97-cbe2-41fa-b3a9-518f674e881e/0603dc.pdf
+1,Q1,J310,OnSemi,MMBFJ310LT3G,SOT-23,DigiKey,MMBFJ310LT3GOSCT-ND‎,https://www.farnell.com/datasheets/1796558.pdf
+1,R2,5.1,YAGEO,RC0603FR-075R1L,R_0603_1608Metric,DigiKey,YAG3372CT-ND‎,~
+2,R1 R3,100,TE Connectivity Passive Product,CRGCQ0603F100R,R_0603_1608Metric,DigiKey,A129676TR-ND,~
 
 
 
@@ -21,6 +21,6 @@ Total components:,15
 Schematic Version:,1.0
 Schematic Date:,
 PCB Variant:,default
-BoM Date:,3/8/2022 11:52:18 AM
+BoM Date:,3/8/2022 1:25:12 PM
 Schematic Source:,436.5MHz LNA.kicad_sch
 KiCad Version:,Eeschema (6.0.2)
