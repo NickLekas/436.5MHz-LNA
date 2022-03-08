@@ -24,3 +24,11 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+
+# For simulations done in LTSpice
+*.log
+*.net
+*.op.raw
+*.plt
+*.raw
